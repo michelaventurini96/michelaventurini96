@@ -12,7 +12,7 @@
 
 code = ['Python', 'C/C++', 'Java', 'R']
 tools = ['vs code', 'PyCharm', 'vim', 'jupyter']
-python_libraries = ['scikit-learn', 'scikit-survival', 'lifelines', 'numpy', 'pandas']
+python_libraries = ['scikit-learn', 'scikit-survival', 'lifelines']
 
 ```
 - 📫 How to reach me: 
