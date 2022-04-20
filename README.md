@@ -1,6 +1,6 @@
 <h2>Hi, I am Michela👋</h2>
 
-<img align='right' src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="320">
+<img align='right' src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="300">
 
 <p><em>I am a data scientist currently working as PhD Student in Explainable ML @ <a href="https://www.kuleuven.be/kuleuven">KU Leuven</a> 
 </em></p>
