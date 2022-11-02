@@ -5,8 +5,8 @@
 <p><em>I am a data scientist currently working as PhD Student in Explainable ML @ <a href="https://www.kuleuven.be/kuleuven">KU Leuven</a> 
 </em></p>
 
-- 🔭 I’m currently working on ML & survival analysis
-- 🌱 I’m currently learning multi-event survival analysis
+🔭 I’m currently working on ML & survival analysis
+🌱 I’m currently learning multi-event survival analysis
 
 ```python
 
@@ -15,7 +15,7 @@ tools = ['vs code', 'PyCharm', 'vim', 'jupyter']
 python_libraries = ['scikit-learn', 'scikit-survival', 'lifelines']
 
 ```
-- 📫 How to reach me: 
+📫 How to reach me: 
 
 [![Linkedin: michelaventurini](https://img.shields.io/badge/-michelaventurini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michela-venturini/)](https://www.linkedin.com/in/michela-venturini/)    [<img width="150px" src="https://kulak.kuleuven.be/nl/over_kulak/diensten/onderzoek_externe_relaties/images/2013-kulak-cmyk.png" />](https://www.kuleuven.be/wieiswie/en/person/00141334)     [<img width="65px" src="https://itec.kuleuven-kulak.be/wp-content/uploads/2020/02/LOGO_ITEC_RGB-1.png" />](https://itec.kuleuven-kulak.be/michela-venturini/) 
 
