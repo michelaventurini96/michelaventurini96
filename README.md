@@ -7,8 +7,6 @@
 
 🔭 I’m currently working on ML & survival analysis
 
-🌱 I’m currently learning multi-event survival analysis
-
 ```python
 
 code = ['Python', 'C/C++', 'Java', 'R']
